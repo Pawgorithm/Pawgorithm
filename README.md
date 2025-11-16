@@ -1,7 +1,7 @@
 # Hi, I'm Pawgorithm! 🐱🔧 Miaw3AI x Web3 Edition
 
 <div align="center">
-  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/banner-software-ai-web3.png" alt="Banner: Software Eng, AI & Web3 Vibes" width="100%"/>
+  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/banner-software-ai-web3.mp4" alt="Banner: Software Eng, AI & Web3 Vibes" width="100%"/>
   <br><br>
   <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" alt="Pawgorithm Avatar" width="200"/>
   <p><em>Software Engineer | AI Enthusiast | Web3 Explorer | Building the future one commit at a time ☕🤖🌐</em></p>
