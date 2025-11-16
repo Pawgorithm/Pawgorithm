@@ -1,11 +1,11 @@
 # Hi, I'm Pawgorithm! 🐱🔧 Miaw3AI x Web3 Edition
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/7b52094a-4ea0-4236-82d8-656bb3143220" autoplay loop muted playsinline width="100%">
+  <video src="https://github.com/user-attachments/assets/7b52094a-4ea0-4236-82d8-656bb3143220" autoplay loop muted playsinline width="50%">
     Your browser does not support the video tag.
   </video>
   <br><br>
-  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" alt="Pawgorithm Avatar" width="200"/>
+  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" alt="Pawgorithm Avatar" width="100"/>
   <p><em>Software Engineer | AI Enthusiast | Web3 Explorer | Building the future one commit at a time ☕🤖🌐</em></p>
 </div>
 
