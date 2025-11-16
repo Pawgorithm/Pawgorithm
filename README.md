@@ -13,14 +13,13 @@ Passionate software engineer diving deep into scalable systems, AI-driven innova
 ### Tech Stack & Tools
 | Category          | Tech & Focus                          |
 |-------------------|---------------------------------------|
-| **Software Eng** | Python 🐍, Node.js, Docker, CI/CD     |
-| **AI/ML**        | PyTorch 🤖, TensorFlow, Jupyter, Scikit-learn |
-| **Web3**         | Solidity 🌐, Ethereum, IPFS, Web3.js  |
-| **Web/Full-Stack**| React, Next.js, HTML/CSS/JS, MongoDB  |
-| **Other**        | Git, AWS, Data Viz (Matplotlib) 📊    |
+| **Software Eng** | Python 🐍, TypeScript, Go, Docker, Kubernetes, CI/CD (GitHub Actions) |
+| **AI/ML**        | PyTorch 🤖, Hugging Face Transformers, TensorFlow, LangChain, Jupyter, Scikit-learn |
+| **Web3**         | Solidity 🌐, Ethers.js, Ethereum/Polygon, IPFS, Hardhat |
+| **Web/Full-Stack**| React/Next.js, Node.js, GraphQL, HTML/CSS/JS, PostgreSQL/MongoDB |
+| **Other**        | Git, AWS/GCP, Data Viz (Matplotlib/Plotly) 📊, REST/GraphQL APIs |
 
 ## 🔥 Featured Projects
-- **[VeeTech](https://github.com/Pawgorithm/VeeTech)**: Hub for software engineering experiments in AI, Web3, and scalable apps. From ML prototypes to blockchain dApps ⭐1
 - **[Jumpstart-Coffee-Shop](https://github.com/Pawgorithm/Jumpstart-Coffee-Shop)**: Full-stack web app demo with React frontend & Node backend – real-world software eng practice ☕
 - **[Latihan Data Scientist](https://github.com/Pawgorithm/latihan_data_scientist)**: Jupyter notebooks for AI data experiments, including predictive models and neural nets 🧠
 
