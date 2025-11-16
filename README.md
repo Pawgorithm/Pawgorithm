@@ -1,40 +1,40 @@
-# Hi, I'm Pawgorithm! 🐱🤖 Miaw3AI Edition
+# Hi, I'm Pawgorithm! 🐱🔧 Miaw3AI x Web3 Edition
 
 <div align="center">
-  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/banner-miaw-ai.png" alt="Miaw AI Banner" width="100%"/>
+  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/banner-software-ai-web3.png" alt="Banner: Software Eng, AI & Web3 Vibes" width="100%"/>
   <br><br>
-  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" alt="Animated Cat" width="200"/>
-  <p><em>AI Enthusiast & Web Dev | Building VeeTech experiments & coffee shop vibes ☕✨</em></p>
+  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" alt="Pawgorithm Avatar" width="200"/>
+  <p><em>Software Engineer | AI Enthusiast | Web3 Explorer | Building the future one commit at a time ☕🤖🌐</em></p>
 </div>
 
 ## About Me 🚀
-Passionate about AI, machine learning, and web development. Currently diving into VeeTech projects and data experiments. Open to collabs on open-source AI & cyber stuff! He/him.
+Passionate software engineer diving deep into scalable systems, AI-driven innovations, and Web3's decentralized world. Currently experimenting with ML models in VeeTech, crafting smart contracts, and optimizing full-stack apps. He/him. Open to collabs on open-source AI/Web3 projects – let's code something epic!
 
 ### Tech Stack & Tools
-| Category | Tech |
-|----------|------|
-| Languages | Python 🐍, HTML/CSS/JS ☕ |
-| AI/ML | Jupyter, Torch 🤖 |
-| Web | Web3 Experiments 🌐 |
-| Other | Data Science 📊 |
+| Category          | Tech & Focus                          |
+|-------------------|---------------------------------------|
+| **Software Eng** | Python 🐍, Node.js, Docker, CI/CD     |
+| **AI/ML**        | PyTorch 🤖, TensorFlow, Jupyter, Scikit-learn |
+| **Web3**         | Solidity 🌐, Ethereum, IPFS, Web3.js  |
+| **Web/Full-Stack**| React, Next.js, HTML/CSS/JS, MongoDB  |
+| **Other**        | Git, AWS, Data Viz (Matplotlib) 📊    |
 
-## 🔥 Pinned Projects
-- **[VeeTech](https://github.com/Pawgorithm/VeeTech)**: Collection of AI, software engineering, and Web3 experiments ⭐1
-- **[Jumpstart-Coffee-Shop](https://github.com/Pawgorithm/Jumpstart-Coffee-Shop)**: HTML/CSS demo for a cozy coffee shop site
-- **[Latihan Data Scientist](https://github.com/Pawgorithm/latihan_data_scientist)**: Jupyter notebooks for data fun and tests
+## 🔥 Featured Projects
+- **[VeeTech](https://github.com/Pawgorithm/VeeTech)**: Hub for software engineering experiments in AI, Web3, and scalable apps. From ML prototypes to blockchain dApps ⭐1
+- **[Jumpstart-Coffee-Shop](https://github.com/Pawgorithm/Jumpstart-Coffee-Shop)**: Full-stack web app demo with React frontend & Node backend – real-world software eng practice ☕
+- **[Latihan Data Scientist](https://github.com/Pawgorithm/latihan_data_scientist)**: Jupyter notebooks for AI data experiments, including predictive models and neural nets 🧠
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawgorithm&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawgorithm&layout=compact&theme=radical)
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawgorithm&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawgorithm&show_icons=true&theme=radical&hide_border=true" alt="Pawgorithm Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawgorithm&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
 </div>
 
-## 📫 Let's Connect!
-- X: [@Miaw3AI](https://x.com/Miaw3AI)
-- LinkedIn: [in/khairunnisa-lubis](https://www.linkedin.com/in/khairunnisa-lubis-61728336) (kalau punya, ganti link lu)
-- Email: pawgorithm@example.com
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pawgorithm&theme=radical)
 
+## 📫 Let's Connect!
+- X: https://x.com/VeeTechh
+- LinkedIn: https://www.linkedin.com/in/viqri-ramadhan-waluya-43b05428a/
+- Portfolio: Coming soon 
 <hr>
-<p align="center"><i>Made with ❤️ and meows by Pawgorithm</i></p>
+<p align="center"><i>Made with ❤️, meows, and code by Pawgorithm | #SoftwareEng #AI #Web3</i></p>
