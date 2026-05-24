@@ -1,41 +1,123 @@
-# Hi, I'm Pawgorithm! 🐱🔧 Miaw3AI x Web3 Edition
+# Hi, I'm Pawgorithm 👋
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/7b52094a-4ea0-4236-82d8-656bb3143220" autoplay loop muted playsinline width="50%">
-    Your browser does not support the video tag.
-  </video>
-  <br><br>
-  <img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" alt="Pawgorithm Avatar" width="100"/>
-  <p><em>Software Engineer | AI Enthusiast | Web3 Explorer | Building the future one commit at a time ☕🤖🌐</em></p>
+
+<img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" width="120" alt="avatar"/>
+
+### Data Science • Machine Learning • AI • Data Analytics
+
+<p>
+Passionate about transforming raw data into actionable insights through AI, machine learning, and data-driven solutions.
+</p>
+
 </div>
 
-## About Me 🚀
-Passionate software engineer diving deep into scalable systems, AI-driven innovations, and Web3's decentralized world. Currently experimenting with ML models in VeeTech, crafting smart contracts, and optimizing full-stack apps. He/him. Open to collabs on open-source AI/Web3 projects – let's code something epic!
+---
 
-### Tech Stack & Tools
-| Category          | Tech & Focus                          |
-|-------------------|---------------------------------------|
-| **Software Eng** | Python 🐍, TypeScript, Go, Docker, Kubernetes, CI/CD (GitHub Actions) |
-| **AI/ML**        | PyTorch 🤖, Hugging Face Transformers, TensorFlow, LangChain, Jupyter, Scikit-learn |
-| **Web3**         | Solidity 🌐, Ethers.js, Ethereum/Polygon, IPFS, Hardhat |
-| **Web/Full-Stack**| React/Next.js, Node.js, GraphQL, HTML/CSS/JS, PostgreSQL/MongoDB |
-| **Other**        | Git, AWS/GCP, Data Viz (Matplotlib/Plotly) 📊, REST/GraphQL APIs |
+## About Me
 
-## 🔥 Featured Projects
-- **[Jumpstart-Coffee-Shop](https://github.com/Pawgorithm/Jumpstart-Coffee-Shop)**: Full-stack web app demo with React frontend & Node backend – real-world software eng practice ☕
-- **[Latihan Data Scientist](https://github.com/Pawgorithm/latihan_data_scientist)**: Jupyter notebooks for AI data experiments, including predictive models and neural nets 🧠
+I am passionate about Data Science, Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy working with data, building predictive models, creating analytical dashboards, and solving real-world problems using technology.
 
-## 📊 GitHub Stats
+I have hands-on experience with modern data tools and technologies including Python, SQL, R, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI, PostgreSQL, Streamlit, Docker, and Jupyter Notebook.
+
+Currently, I focus on:
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Machine Learning & Predictive Modeling
+- Data Visualization & Dashboard Development
+- AI-based Problem Solving
+- Industrial & Business Data Solutions
+
+I continuously improve my technical and analytical skills through academic projects, self-learning, and practical experimentation.
+
+---
+
+## Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+</p>
+
+### Data Science & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Jupyter Notebook
+</p>
+
+### Database & Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+</p>
+
+<p>
+Power BI • SQL • Data Visualization • Dashboard Development
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### Predictive Stock Analysis
+Machine learning project for stock prediction and financial data analysis using Python, Pandas, and Scikit-learn.
+
+### Data Science Experiments
+Collection of Jupyter notebooks for data analysis, preprocessing, visualization, and predictive modeling experiments.
+
+### Interactive Data Dashboard
+Business intelligence dashboard project using Power BI and Streamlit for interactive analytics and reporting.
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawgorithm&show_icons=true&theme=radical&hide_border=true" alt="Pawgorithm Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawgorithm&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pawgorithm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawgorithm&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pawgorithm&theme=radical)
+<div align="center">
 
-## 📫 Let's Connect!
-- X: https://x.com/VeeTechh
-- LinkedIn: https://www.linkedin.com/in/viqri-ramadhan-waluya-43b05428a/
-- Portfolio: Coming soon 
-<hr>
-<p align="center"><i>Made with ❤️, meows, and code by Pawgorithm | #SoftwareEng #AI #Web3</i></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawgorithm&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning & Neural Networks
+- Data Engineering Fundamentals
+- AI for Industrial Applications
+- MLOps & Model Deployment
+
+---
+
+## Connect With Me
+
+- LinkedIn  
+  https://www.linkedin.com/in/viqri-ramadhan-waluya-43b05428a/
+
+- X / Twitter  
+  https://x.com/VeeTechh
+
+---
+
+<div align="center">
+
+### "Turning data into insights and ideas into intelligent solutions."
+
+</div>
