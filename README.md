@@ -1,14 +1,10 @@
-# Hi, I'm Pawgorithm 👋
-
 <div align="center">
 
-<img src="https://github.com/Pawgorithm/Pawgorithm/raw/main/avatar-sunglass-cat.gif" width="120" alt="avatar"/>
+# Hi, I'm Hexa 👋
 
-### Data Science • Machine Learning • AI • Data Analytics
+**Informatics Student at Gunadarma University | Cybersecurity & Network Engineering Enthusiast | AI-Assisted Web Development | Cybersecurity Intern at Networkwalks**
 
-<p>
-Passionate about transforming raw data into actionable insights through AI, machine learning, and data-driven solutions.
-</p>
+Passionate about building secure systems, exploring computer networks, and developing practical web solutions.
 
 </div>
 
@@ -16,108 +12,89 @@ Passionate about transforming raw data into actionable insights through AI, mach
 
 ## About Me
 
-I am passionate about Data Science, Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy working with data, building predictive models, creating analytical dashboards, and solving real-world problems using technology.
+I'm an Informatics student at **Gunadarma University**, focusing on **Cybersecurity**, **Network Engineering**, and **AI-Assisted Web Development**.
 
-I have hands-on experience with modern data tools and technologies including Python, SQL, R, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI, PostgreSQL, Streamlit, Docker, and Jupyter Notebook.
-
-Currently, I focus on:
-
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning & Predictive Modeling
-- Data Visualization & Dashboard Development
-- AI-based Problem Solving
-- Industrial & Business Data Solutions
-
-I continuously improve my technical and analytical skills through academic projects, self-learning, and practical experimentation.
-
----
+- 🛡️ **Cybersecurity Intern at Networkwalks**, participating in a virtual training internship program.
+- 🌐 Exploring network configuration, troubleshooting, and security fundamentals.
+- 🐧 Practicing Linux administration and hands-on labs with Kali Linux and VirtualBox.
+- 💻 Building web applications using JavaScript, PHP, and Google Apps Script.
+- 🤖 Exploring AI-assisted coding workflows to accelerate prototyping and development.
+- 🔍 Learning vulnerability assessment, penetration testing, and security operations.
 
 ## Tech Stack
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql" />
-</p>
+### Cybersecurity & Networking
 
-### Data Science & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge)
 
-<p>
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Jupyter Notebook
-</p>
+### Programming & Web Development
 
-### Database & Analytics
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p>
-Power BI • SQL • Data Visualization • Dashboard Development
-</p>
+### Tools & Platforms
 
-### Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+## Experience
+
+### Cybersecurity Intern | Networkwalks
+**Virtual Training Internship | October 2026**
+
+Developing practical cybersecurity skills through technical training and hands-on labs, with a focus on:
+
+- Network security fundamentals
+- Kali Linux and virtual lab environments
+- VirtualBox NAT Network configuration
+- IP addressing and connectivity troubleshooting
+- Vulnerability assessment and penetration testing fundamentals
+- Technical documentation and security reporting
 
 ## Featured Projects
 
-### Predictive Stock Analysis
-Machine learning project for stock prediction and financial data analysis using Python, Pandas, and Scikit-learn.
+### Network Security Lab with Kali Linux
+A virtual networking lab using Kali Linux and VirtualBox, covering NAT Network configuration, connectivity testing, and troubleshooting.
 
-### Data Science Experiments
-Collection of Jupyter notebooks for data analysis, preprocessing, visualization, and predictive modeling experiments.
+### Web-Based Tour Guide Evaluation System
+A QR-code-based guide evaluation web application for Museum Listrik dan Energi Baru (MLEB), using Google Apps Script, Google Sheets, HTML, CSS, and JavaScript.
 
-### Interactive Data Dashboard
-Business intelligence dashboard project using Power BI and Streamlit for interactive analytics and reporting.
-
----
+### AI-Assisted Web Development
+Web application prototyping and development using AI-assisted coding workflows, with an emphasis on usability, maintainability, and security.
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pawgorithm&show_icons=true&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miaw3AI&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawgorithm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawgorithm&theme=tokyonight&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Miaw3AI&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 ## Currently Learning
 
-- Advanced Machine Learning
-- Deep Learning & Neural Networks
-- Data Engineering Fundamentals
-- AI for Industrial Applications
-- MLOps & Model Deployment
-
----
+- Ethical Hacking & Penetration Testing
+- Network Engineering & Network Security
+- Linux System Administration
+- Vulnerability Assessment
+- Security Operations & Incident Response
+- Secure AI-Assisted Web Development
 
 ## Connect With Me
 
-- LinkedIn  
-  https://www.linkedin.com/in/viqri-ramadhan-waluya-43b05428a/
-
-- X / Twitter  
-  https://x.com/VeeTechh
+[![GitHub](https://img.shields.io/badge/GitHub-Miaw3AI-181717?style=for-the-badge&logo=github)](https://github.com/Miaw3AI)
 
 ---
 
-<div align="center">
-
-### "Turning data into insights and ideas into intelligent solutions."
-
-</div>
+<div align="center"><i>Learning, building, and securing technology one project at a time.</i></div>
